@@ -26,7 +26,7 @@ API RESTful desenvolvida em .NET para gerenciamento de motos e vagas de estacion
 
 ## Tecnologias Utilizadas
 
-- .NET 8
+- .NET 9
 - ASP.NET Core
 - C#
 - Entity Framework Core
@@ -41,8 +41,8 @@ API RESTful desenvolvida em .NET para gerenciamento de motos e vagas de estacion
 
 1. Clone o projeto:
    ```bash
-   git clone https://github.com/MarsoL4/geosense-api.git
-   cd geosense-api
+   git clone https://github.com/DGMMX/Challenger-MOTTU.git
+   cd challenger-mottu
    ```
 
 2. Configure a conexão Oracle no `appsettings.json`:
@@ -56,7 +56,8 @@ API RESTful desenvolvida em .NET para gerenciamento de motos e vagas de estacion
    ```bash
    dotnet restore
    dotnet build
-   dotnet run --project GeoSense.API
+   dotnet run --project Challenger-MOTTU
+
    ```
 
 4. Acesse no navegador:
