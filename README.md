@@ -67,4 +67,6 @@ API RESTful desenvolvida em .NET para gerenciamento de motos e vagas de estacion
 
 ## 👥 Integrantes
 
-- Diego Bassalo RM 558710
+- Diego Bassalo RM 558710 2TDSPG (Paulista)
+- Lucas  RM 558506 2TDSR (Aclimação)
+- Pedro Henrique Jorge De Paula RM 558833 2TDSPJ (Paulista)
