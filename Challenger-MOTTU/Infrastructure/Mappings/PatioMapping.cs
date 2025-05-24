@@ -18,6 +18,7 @@ namespace challenger.Infrastructure.Mappings
                 .HasMaxLength(50)
                 .IsRequired();
 
+
             builder
                 .Property(p => p.Cidade)
                 .HasMaxLength(50)
@@ -26,6 +27,7 @@ namespace challenger.Infrastructure.Mappings
             builder
                 .Property(p => p.Capacidade)
                 .IsRequired();
+            
         }
     }
 }
