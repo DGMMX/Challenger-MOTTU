@@ -61,7 +61,7 @@ API RESTful desenvolvida em .NET para gerenciamento de motos e vagas de estacion
    ```
 
 4. Acesse no navegador:
-   - Swagger: Deverá abrir automaticamente após a execução do Projeto.
+   - Swagger UI: https://localhost:7231/swagger/index.html
 
 ---
 
